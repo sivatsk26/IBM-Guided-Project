@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="200" />
   <br/>
    <h1>University Admit Eligibility Predictor</h1>
-   <h3>Team Members: Siva Kumar T, Abisheak A, Santhosh Kumar B, Sivanraj M </h3>
+   <h3>Team Members: Siva Kumar T (Lead), Abisheak A, Santhosh Kumar B, Sivanraj M </h3>
    
    <a href="https://github.com/sivatsk26/University-Admit-Eligibility-Predictor/blob/811c51c8f119bb6509e4fe5d52a86c63833bdedc/Demo.mp4">Demo Link</a>
 </div>
