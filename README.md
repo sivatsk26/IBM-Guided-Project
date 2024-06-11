@@ -4,7 +4,7 @@
    <h1>University Admit Eligibility Predictor</h1>
    <h3>Team Members: Siva Kumar T, Abisheak A, Santhosh Kumar B, Sivanraj M </h3>
    
-   <a href="https://youtu.be/7QL70hZYLVQ">Demo Link</a>
+   <a href="https://github.com/sivatsk26/University-Admit-Eligibility-Predictor/blob/811c51c8f119bb6509e4fe5d52a86c63833bdedc/Demo.mp4">Demo Link</a>
 </div>
 
 ### Abstract
