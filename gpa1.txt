@@ -1,0 +1,28 @@
+sem=int(input("Enter No.of Semesters:"))
+for a in range(0,sem):
+    print("Entering into details of Semester :",(a+1))
+    n=int(input("Enter no.of Subjects:"))
+    marks=[]
+    credit=[]
+    a=[]
+    GPA=[]
+    for i in range(n):
+        print("Enter the ",(i+1),end=" th subject marks: ")
+        x=int(input())
+        marks.append(x)
+    for i in range(n):
+        print("Enter the ",(i+1),end=" th subject credits: ")
+        x=int(input())
+        credit.append(x)
+    for i in range(n):
+        b = (marks[i] * credit[i])
+        a.append(b)
+        c = sum(credit)
+        d = sum(a)
+        g = d/c
+        gpa = d / c
+        print(g)
+        GPA.append(gpa)
+        print(GPA)
+cgpa=sum(GPA)/sem
+print(cgpa)
